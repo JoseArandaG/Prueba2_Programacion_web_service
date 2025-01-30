@@ -11,7 +11,7 @@ public class Disco {
     @Id
     public String idArtista;
     public String nombre;
-    public int aniofundacion;
+    public int aniofundacion; 
     public List<String> canciones;
     
 }
